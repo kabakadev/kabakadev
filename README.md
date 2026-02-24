@@ -1,46 +1,41 @@
-# kabakadev
+# Ian Kabaka | Software Engineer
 
-<h1 align="center">Ian 👋, I'm Hi </h1>
-<h3 align="center">Unpopular opinion:git unpush should be a command</h3>
-
----
-
-### 🌐 Connect with me:
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/kabaka_ian)
+Nairobi-based Software Engineer specializing in building scalable web and mobile applications. I focus on creating clean, maintainable code and efficient backend architectures.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 💻 Technical Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="40" alt="Blade (via Laravel)"/>
-</p>
+**Primary Expertise**
+* **Frontend:** React, Flutter (Mobile & Web)
+* **Backend:** Python (FastAPI), JavaScript (Node.js)
+* **Database:** PostgreSQL
 
-### 📈 GitHub Stats:
+**Tools & Familiarity**
+* **Version Control:** Git
+* **Web Frameworks:** Flask, Laravel (Exploratory)
+* **Languages:** Python, JavaScript, PHP, Dart
+
+---
+
+### 📊 GitHub Productivity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabakadev&show_icons=true&theme=tokyonight" alt="kabakadev GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabakadev&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabakadev&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabakadev&show_icons=true&theme=tokyonight&hide_border=true" alt="Ian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabakadev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabakadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-<!-- Optional Trophy section -->
-<!--
-### 🏆 GitHub Trophies:
+### 🌐 Socials & Networking
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabakadev&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
--->
+* **Twitter/X:** [@kabaka_ian](https://x.com/kabaka_ian)
+* **GitHub:** [kabakadev](https://github.com/kabakadev)
+
+---
+
+> **Note:** I am a strong advocate for a `git unpush` command.
